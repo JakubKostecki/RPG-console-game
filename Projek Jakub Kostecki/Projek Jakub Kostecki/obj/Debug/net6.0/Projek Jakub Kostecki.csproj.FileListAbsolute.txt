@@ -1,0 +1,15 @@
+C:\Users\Komputer\source\repos\Projek Jakub Kostecki\Projek Jakub Kostecki\bin\Debug\net6.0\Projek Jakub Kostecki.exe
+C:\Users\Komputer\source\repos\Projek Jakub Kostecki\Projek Jakub Kostecki\bin\Debug\net6.0\Projek Jakub Kostecki.deps.json
+C:\Users\Komputer\source\repos\Projek Jakub Kostecki\Projek Jakub Kostecki\bin\Debug\net6.0\Projek Jakub Kostecki.runtimeconfig.json
+C:\Users\Komputer\source\repos\Projek Jakub Kostecki\Projek Jakub Kostecki\bin\Debug\net6.0\Projek Jakub Kostecki.dll
+C:\Users\Komputer\source\repos\Projek Jakub Kostecki\Projek Jakub Kostecki\bin\Debug\net6.0\Projek Jakub Kostecki.pdb
+C:\Users\Komputer\source\repos\Projek Jakub Kostecki\Projek Jakub Kostecki\obj\Debug\net6.0\Projek Jakub Kostecki.csproj.AssemblyReference.cache
+C:\Users\Komputer\source\repos\Projek Jakub Kostecki\Projek Jakub Kostecki\obj\Debug\net6.0\Projek Jakub Kostecki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Komputer\source\repos\Projek Jakub Kostecki\Projek Jakub Kostecki\obj\Debug\net6.0\Projek Jakub Kostecki.AssemblyInfoInputs.cache
+C:\Users\Komputer\source\repos\Projek Jakub Kostecki\Projek Jakub Kostecki\obj\Debug\net6.0\Projek Jakub Kostecki.AssemblyInfo.cs
+C:\Users\Komputer\source\repos\Projek Jakub Kostecki\Projek Jakub Kostecki\obj\Debug\net6.0\Projek Jakub Kostecki.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\source\repos\Projek Jakub Kostecki\Projek Jakub Kostecki\obj\Debug\net6.0\Projek Jakub Kostecki.dll
+C:\Users\Komputer\source\repos\Projek Jakub Kostecki\Projek Jakub Kostecki\obj\Debug\net6.0\refint\Projek Jakub Kostecki.dll
+C:\Users\Komputer\source\repos\Projek Jakub Kostecki\Projek Jakub Kostecki\obj\Debug\net6.0\Projek Jakub Kostecki.pdb
+C:\Users\Komputer\source\repos\Projek Jakub Kostecki\Projek Jakub Kostecki\obj\Debug\net6.0\Projek Jakub Kostecki.genruntimeconfig.cache
+C:\Users\Komputer\source\repos\Projek Jakub Kostecki\Projek Jakub Kostecki\obj\Debug\net6.0\ref\Projek Jakub Kostecki.dll
